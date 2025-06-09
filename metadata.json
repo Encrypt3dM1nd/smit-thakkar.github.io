@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio Website",
+  "description": "A modern and responsive personal portfolio website built with React, TypeScript, and Tailwind CSS, featuring Home, Resume, Projects, and Contact pages.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
